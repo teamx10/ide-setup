@@ -1,0 +1,8 @@
+{
+  "name": "ide-setup",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:teamx10/ide-setup.git",
+  "author": "Artem Koziar <koziar.artem@gmail.com>",
+  "license": "MIT"
+}
